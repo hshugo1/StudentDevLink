@@ -10,14 +10,15 @@ if(html.classList.contains('light')){
 
     html.classList.toggle('light')
 
-/*
+
     const img = document.querySelector("#profile img")
 
 
     if (html.classList.contains('light')){
         img.setAttribute('src', './assets/Avatar.png')
-    } esle{
+    } else{
         img.setAttribute('src', './assets/avatar3.png')
     }
-*/
+
+
 }
